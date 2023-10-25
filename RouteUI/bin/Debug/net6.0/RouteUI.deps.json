@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RouteUI/1.0.0": {
+        "dependencies": {
+          "RoutClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RouteUI.dll": {}
+        }
+      },
+      "RoutClassLibrary/1.0.0": {
+        "runtime": {
+          "RoutClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RouteUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoutClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

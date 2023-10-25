@@ -1,0 +1,12 @@
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\bin\Debug\net6.0\RoutClassLibrary.deps.json
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\bin\Debug\net6.0\RoutClassLibrary.dll
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\bin\Debug\net6.0\RoutClassLibrary.pdb
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.csproj.AssemblyReference.cache
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.AssemblyInfoInputs.cache
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.AssemblyInfo.cs
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.csproj.CoreCompileInputs.cache
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.dll
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\refint\RoutClassLibrary.dll
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\RoutClassLibrary.pdb
+C:\additions\hogent\pg\Oefeningen\Route\RoutClassLibrary\obj\Debug\net6.0\ref\RoutClassLibrary.dll
